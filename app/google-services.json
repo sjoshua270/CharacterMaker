@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "460353543198",
+    "firebase_url": "https://character-maker.firebaseio.com",
+    "project_id": "character-maker",
+    "storage_bucket": "character-maker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460353543198:android:fc93e5d7a4146363",
+        "android_client_info": {
+          "package_name": "com.rethink.charactermaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460353543198-6uli0da8i41qet92e7rlir9or1qj9b3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7fRj9__OvTGhhC51Uno94lhCAsLyQp5k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
