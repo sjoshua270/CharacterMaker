@@ -3,4 +3,9 @@
     <string name="title_name">Name</string>
     <string name="title_level">Level</string>
     <string name="title_class">Class</string>
+
+    <!--Amanda's contributions-->
+    <string name="amanda_instructions">Fill out this space with as many character creation details as you feel necessary.
+    Separate each important point into a different "string" item</string>
+
 </resources>
